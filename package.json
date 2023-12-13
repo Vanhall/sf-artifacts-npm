@@ -1,0 +1,22 @@
+{
+  "name": "sf-9.5.1-vnh",
+  "version": "1.0.0",
+  "description": "SF task 9.5.1",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vanhall/sf-artifacts-npm.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Vanhall",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vanhall/sf-artifacts-npm/issues"
+  },
+  "homepage": "https://github.com/Vanhall/sf-artifacts-npm#readme"
+}
